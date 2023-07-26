@@ -4,5 +4,5 @@
 I`m a Junior Data Analyst, graduated from Yandex. 
 
 ### Tools:
-Python(pandas, seaborn, plotly, matplotlib, numpy, scipy), Jupiter, SQL, PostgreSQL, Jira, Confluence, Tableau
+Python(pandas, seaborn, plotly, matplotlib, numpy, scipy), Jupyter, SQL, PostgreSQL, Jira, Confluence, Tableau
 
